@@ -1,0 +1,240 @@
+{
+    "Sheet1": [
+        {
+            "Name": "Acid Nut",
+            "Potency": 200
+        },
+        {
+            "Name": "Acid Phos",
+            "Potency": 200
+        },
+        {
+            "Name": "Arnica",
+            "Potency": 200
+        },
+        {
+            "Name": "Basilinum",
+            "Potency": "1m"
+        },
+        {
+            "Name": "Bryonia",
+            "Potency": 30
+        },
+        {
+            "Name": "Bryonia",
+            "Potency": 200
+        },
+        {
+            "Name": "Cal Flour",
+            "Potency": 30
+        },
+        {
+            "Name": "Cal Phos",
+            "Potency": 30
+        },
+        {
+            "Name": "Cal phos",
+            "Potency": 200
+        },
+        {
+            "Name": "Cal Phos",
+            "Potency": 6
+        },
+        {
+            "Name": "Calcarea Carb",
+            "Potency": 200
+        },
+        {
+            "Name": "Calcarea Flourica",
+            "Potency": 6
+        },
+        {
+            "Name": "Calcarea Flourica",
+            "Potency": 30
+        },
+        {
+            "Name": "Calcarea Phos",
+            "Potency": 6
+        },
+        {
+            "Name": "Cocculus Ind",
+            "Potency": 200
+        },
+        {
+            "Name": "Colocynthis",
+            "Potency": 30
+        },
+        {
+            "Name": "Colocynthis",
+            "Potency": 200
+        },
+        {
+            "Name": "Euphrasia",
+            "Potency": 6
+        },
+        {
+            "Name": "Ferum Phos",
+            "Potency": 6
+        },
+        {
+            "Name": "Kali Bich",
+            "Potency": 30
+        },
+        {
+            "Name": "Lycopodium",
+            "Potency": 30
+        },
+        {
+            "Name": "Natrum Mur",
+            "Potency": 30
+        },
+        {
+            "Name": "Natrum Mur",
+            "Potency": 6
+        },
+        {
+            "Name": "Natrum Phosphoricum",
+            "Potency": 6
+        },
+        {
+            "Name": "Natrum Phosphoricum",
+            "Potency": 30
+        },
+        {
+            "Name": "Nux Vomica",
+            "Potency": 30
+        },
+        {
+            "Name": "Nux Vomica",
+            "Potency": 200
+        },
+        {
+            "Name": "Psorinum",
+            "Potency": "1m"
+        },
+        {
+            "Name": "Rhus Tox",
+            "Potency": 30
+        },
+        {
+            "Name": "Rhus Tox",
+            "Potency": 200
+        },
+        {
+            "Name": "Sulphur",
+            "Potency": 30
+        },
+        {
+            "Name": "Sulphur",
+            "Potency": 200
+        },
+        {
+            "Name": "Sulphur",
+            "Potency": "1M"
+        },
+        {
+            "Name": "Sulphur ",
+            "Potency": 30
+        },
+        {
+            "Name": "Thuja",
+            "Potency": "1m"
+        },
+        {
+            "Name": "Tuberculinum",
+            "Potency": "10m"
+        },
+        {
+            "Name": "Tuberculinum",
+            "Potency": "1m"
+        },
+        {
+            "Name": NaN,
+            "Potency": NaN
+        },
+        {
+            "Name": "Liquid",
+            "Potency": " "
+        },
+        {
+            "Name": "ADEL 86",
+            "Potency": NaN
+        },
+        {
+            "Name": "Impatient",
+            "Potency": 30
+        },
+        {
+            "Name": "Kreosotum",
+            "Potency": 30
+        },
+        {
+            "Name": "Sepia",
+            "Potency": 200
+        },
+        {
+            "Name": "Staphysagria",
+            "Potency": NaN
+        },
+        {
+            "Name": "Sulphur",
+            "Potency": 1000
+        },
+        {
+            "Name": "Thuja Occidentalis",
+            "Potency": 200
+        },
+        {
+            "Name": "White Chest Nut",
+            "Potency": 30
+        },
+        {
+            "Name": NaN,
+            "Potency": NaN
+        },
+        {
+            "Name": NaN,
+            "Potency": NaN
+        },
+        {
+            "Name": "Bio Combination",
+            "Potency": " "
+        },
+        {
+            "Name": NaN,
+            "Potency": 3
+        },
+        {
+            "Name": NaN,
+            "Potency": 4
+        },
+        {
+            "Name": NaN,
+            "Potency": 6
+        },
+        {
+            "Name": NaN,
+            "Potency": 8
+        },
+        {
+            "Name": NaN,
+            "Potency": 10
+        },
+        {
+            "Name": NaN,
+            "Potency": 11
+        },
+        {
+            "Name": NaN,
+            "Potency": 12
+        },
+        {
+            "Name": NaN,
+            "Potency": 24
+        },
+        {
+            "Name": NaN,
+            "Potency": 25
+        }
+    ]
+}
